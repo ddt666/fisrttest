@@ -19,6 +19,7 @@
 def foo(func):
     def inner():
         print("haha")
+        print("devvvvvvvv")
         func()
 
     return inner
