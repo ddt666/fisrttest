@@ -1,6 +1,6 @@
 
 def pycharm():
-    pass
+    print("haha")
 
 def dev():
     pass
