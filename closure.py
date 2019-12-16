@@ -1,9 +1,15 @@
+
+def pycharm():
+    pass
+
 def dev():
     pass
 
 
 def jiali():
     pass
+
+
 # def foo():
 #     x = 10
 #     y = 20
@@ -56,5 +62,6 @@ def add():
     for i in range(100000000):
         ret += i
     print(ret)
+
 
 add()
